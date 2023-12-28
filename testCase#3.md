@@ -1,5 +1,6 @@
 ```cs
 
+//Create array of nums 36 - 180
 int size = 144;
 int start = 36;
 
@@ -13,6 +14,7 @@ for (int i = 0; i < nums.Length; i++)
     start++;
 }
 
+//Begin loop to evaluate tip, top and tap
 
 for (int i = 0; i < nums.Length; i++)
 {
